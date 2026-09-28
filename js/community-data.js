@@ -12,6 +12,7 @@ const communityMembers = [
     bio: "Founder of Echo Moments. Shooting maternity, family, and pre-wedding stories around Pune.",
     link: "https://instagram.com/prashantmphotography",
     linkLabel: "@prashantmphotography",
+    image: "/assets/community/prashant-photo.jpg",
     palette: 0,
   },
   {
